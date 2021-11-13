@@ -2,4 +2,4 @@
 
 ## Тема: redux, redux toolkit
 
-## Завдання виконано выдповыдно до ТЗ - https://github.com/goitacademy/react-homework/tree/master/homework-06
+ Завдання виконано выдповыдно до ТЗ - https://github.com/goitacademy/react-homework/tree/master/homework-06
